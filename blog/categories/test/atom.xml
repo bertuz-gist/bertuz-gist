@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | I'm Matteo Bertamini]]></title>
+  <link href="http://bertuz.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://bertuz.github.io/"/>
+  <updated>2015-02-07T16:27:28+01:00</updated>
+  <id>http://bertuz.github.io/</id>
+  <author>
+    <name><![CDATA[Matteo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My Very First Post]]></title>
+    <link href="http://bertuz.github.io/blog/2015/02/07/my-very-first-post/"/>
+    <updated>2015-02-07T16:22:41+01:00</updated>
+    <id>http://bertuz.github.io/blog/2015/02/07/my-very-first-post</id>
+    <content type="html"><![CDATA[<p>Hi there, this is a post. </p>
+]]></content>
+  </entry>
+  
+</feed>
